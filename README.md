@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Susan717
 - 👀 I’m interested in 嵌入式硬件
 - 🌱 I’m currently learning 模拟电子、软件、数字电路
-- 💞️ I’m looking to collaborate on 老子单干
+- 💞️ I’m looking to collaborate on alone
 - 📫 How to reach me Mysxuan318
 
 <!---
